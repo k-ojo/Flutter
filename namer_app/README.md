@@ -1,3 +1,3 @@
-# namer_app
+# Gen2App
 
-A new Flutter project.
+My first Flutter app
